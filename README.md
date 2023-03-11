@@ -27,6 +27,16 @@ This dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10
 <li>scikit-learn
 <li>IPython
 
+# resources
+UrbanSound8K: This is a dataset of urban sounds that contains 8,732 labeled sound clips from ten classes, including air conditioner, car horn, children playing, dog bark, drilling, engine idling, gunshot, jackhammer, siren, and street music.
+
+ESC-50: This is a dataset of environmental sounds that contains 2,000 labeled sound clips from 50 classes, including animal sounds, natural soundscapes, human sounds, and water sounds.
+
+AudioSet: This is a large-scale dataset of labeled audio events that contains over 2 million audio clips from over 600 classes, including environmental sounds.
+
+DCASE 2019 Task 1: This is a dataset of sound events in real-life audio recordings that contains over 20,000 labeled sound clips from ten classes, including dog, rooster, chainsaw, car horn, and church bells.
+
+FSD: This is a dataset of environmental sounds that contains over 41,000 sound clips from 101 classes, including animal sounds, nature sounds, and urban sounds.
 # Neural Network
 
 <li>Basic Dense Neural Network
