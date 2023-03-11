@@ -37,6 +37,14 @@ AudioSet: This is a large-scale dataset of labeled audio events that contains ov
 DCASE 2019 Task 1: This is a dataset of sound events in real-life audio recordings that contains over 20,000 labeled sound clips from ten classes, including dog, rooster, chainsaw, car horn, and church bells.
 
 FSD: This is a dataset of environmental sounds that contains over 41,000 sound clips from 101 classes, including animal sounds, nature sounds, and urban sounds.
+
+here are a few more publicly available datasets for human language audio classification:
+
+Speech Commands: https://www.tensorflow.org/datasets/catalog/speech_commands
+M-AILABS Speech Dataset: https://www.caito.de/2019/01/the-m-ailabs-speech-dataset/
+LibriSpeech: http://www.openslr.org/12/
+VoxForge: http://www.voxforge.org/
+Free Spoken Digit Dataset: https://github.com/Jakobovski/free-spoken-digit-dataset
 # Neural Network
 
 <li>Basic Dense Neural Network
