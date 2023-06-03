@@ -49,4 +49,4 @@ Free Spoken Digit Dataset: https://github.com/Jakobovski/free-spoken-digit-datas
 
 <li>Basic Dense Neural Network
   
-**Accuracy:** 93.00
+**Accuracy:** 80.00%
